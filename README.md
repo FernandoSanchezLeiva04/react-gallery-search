@@ -1,4 +1,4 @@
-# Movie Searcher App
+# Pexel Image Searcher
 
 Search for images fetching the Pexels API.
 
