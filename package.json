@@ -1,7 +1,7 @@
 {
   "name": "react-gallery-search",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.1.0",
   "type": "module",
   "homepage": "https://FernandoSanchezLeiva04.github.io/react-gallery-search",
   "scripts": {

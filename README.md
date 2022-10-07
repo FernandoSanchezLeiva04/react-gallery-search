@@ -8,7 +8,7 @@ This projet was build using: vite + react + typescript + styled-components.
 
 This is a Create React App program that fetches data from the [Pexels API](https://www.pexels.com/api/) to show different images from the search criteria. It displays a list of movies that match the search criteria. It shows a maximum of 15 images per search.
 
-The project can be seen live using the Github pages in the following URL: https://fernandosanchezleiva04.github.io/react-gallery-search/
+<!-- The project can be seen live using the Github pages in the following URL: https://fernandosanchezleiva04.github.io/react-gallery-search/ -->
 
 ## Available Scripts
 
