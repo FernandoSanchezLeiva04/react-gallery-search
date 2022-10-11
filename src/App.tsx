@@ -3,6 +3,7 @@ import { Content } from "./components/content";
 import Masthead from "./components/masthead";
 import SearchBar from "./components/search-bar";
 import useFetch from "./hooks/use-fetch";
+import imgUrl from '/assets/images/img1.jpg'
 
 const App = () => {
   const { data, setData, type, setType } = useFetch();
@@ -12,7 +13,7 @@ const App = () => {
       <Masthead
         title='pvGallery'
         paragraph='Cool images and videos. Search, love & share!'
-        imagePath='/images/img1.jpg'
+        imagePath={imgUrl}
       />
       <SearchBar
         placeholder='cats, bikes, mountains, etc...'
