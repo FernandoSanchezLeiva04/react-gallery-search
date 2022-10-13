@@ -11,12 +11,12 @@ const App = () => {
   return (
     <div>
       <Masthead
-        title='pvGallery'
+        title='React Gallery Search'
         paragraph='Cool images and videos. Search, love & share!'
         imagePath={imgUrl}
       />
       <SearchBar
-        placeholder='cats, bikes, mountains, etc...'
+        placeholder='Cats, bikes, mountains, etc...'
         value={value}
         onClick={() => {
           setData({ ...data, slug: value });

@@ -25,7 +25,7 @@ export const Content = (props: Props) => {
   return (
     <>
       <Wrapper>
-        <h2>Resuls for {data?.slug}</h2>
+        <h2>Results for {data?.slug}</h2>
       </Wrapper>
       <Wrapper>
         {data?.results &&
