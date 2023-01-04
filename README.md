@@ -1,4 +1,4 @@
-![Pexel Image Searcher - Screenshot](https://raw.githubusercontent.com/fernandojsl4/gallery-movie-search/master/images/gallery-searcher-app.png)
+![Pexel Image Searcher - Screenshot](https://raw.githubusercontent.com/fernandojsl4/react-gallery-search/master/images/gallery-searcher-app.png)
 
 # Pexel Image Searcher
 
